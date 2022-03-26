@@ -1,0 +1,5 @@
+abstract class DailyMissionsStates{}
+class DMInitState extends DailyMissionsStates{}
+class OnSetTimeButtonTappedState extends DailyMissionsStates{}
+class OnSetDateButtonTappedState extends DailyMissionsStates{}
+class OnBottomSheetDoneButtonTappedState extends DailyMissionsStates{}
